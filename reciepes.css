@@ -1,0 +1,44 @@
+*{
+    font-family: "Monaco", "monospace";
+}
+
+h1{
+    background-color: #f40;
+    text-align: center;
+    margin: 16px 10px;
+}
+
+a{
+    background-color: yellow;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+
+img{
+   border-radius: 5px;
+   display: block;
+   height: 300px;
+   width: auto; 
+   margin: auto;   
+}
+
+p.r-description{
+    background-color: yellow;
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+    font-weight: bold;
+    display: inline-block;
+    margin: 8px 5px;
+}
+
+
+div{
+    border: solid 5px black;
+    padding: 10px;
+}
